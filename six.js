@@ -54,4 +54,23 @@ Math.floor(Math.random()*1000000)
 
 Math.floor(Math.random()*(max-min))+min
 
-Math.floor(Math.random()*(10-1))+1
+Math.floor(Math.random()*(10-1))+1;
+
+Math.PI
+3.141592653589793
+Math.pow(2,2)
+4
+Math.sqrt(4)
+2
+Math.sqrt(5)
+2.23606797749979
+Math.log(1)
+0
+Math.log(-0)
+-Infinity
+Math.cos(1)
+0.5403023058681398
+Math.sin(1)
+0.8414709848078965
+Math.tanh(1)
+0.7615941559557649

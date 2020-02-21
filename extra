@@ -42,8 +42,26 @@ Ecma 6
 https://github.com/Aakashdeveloper
 //////
 
+//Download GitBash >https://git-scm.com/downloads
+///Github////
+>>>>Navigate to folder using cmd
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/testapp.git
+git push -u origin master
+
+//Second and all next time//
+git add .
+git commit -m "adding if conditon"
+git push
+
+
 
 //////
-String Operations
 Math Operations
+condition
+if else
+switch
+ternery
 ////
