@@ -4,11 +4,11 @@ Ecma 5
 Ecma 6
 > variable
 > Operations
-----------------
 > condition
 > if else
-> switch
 > ternery Operations
+----------------
+> switch
 > loops
 > functions
 > array
@@ -59,9 +59,9 @@ git push
 
 
 //////
-Math Operations
-condition
-if else
-switch
-ternery
+for 
+while
+do while
+map
+filter
 ////
