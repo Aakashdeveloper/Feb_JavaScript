@@ -51,7 +51,7 @@ and your have to take input from use of 2 things
 first country name and amount
 you will check if that country exist in the array
 than console price with currency of that country
-esle say we dont accept this currency
+else say we dont accept this currency
 */
 
 

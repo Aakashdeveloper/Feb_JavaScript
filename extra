@@ -7,12 +7,11 @@ Ecma 6
 > condition
 > if else
 > ternery Operations
-----------------
 > switch
 > loops
 > functions
 > array
-> objection
+----------------
 > regex
 > localstorage
 > object 
@@ -59,9 +58,16 @@ git push
 
 
 //////
-for 
-while
-do while
 map
 filter
+Regex
 ////
+
+
+IIS
+java - apache
+php - xamp
+
+python/Node
+
+IFFI
