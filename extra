@@ -11,10 +11,14 @@ Ecma 6
 > loops
 > functions
 > array
-----------------
+> Es6
+    > lat, const
+    > maps,filter
 > regex
 > localstorage
+----------------
 > object 
+> Clousers
 > Prototypes
 > Transpile
 > DoM
@@ -25,8 +29,6 @@ Ecma 6
 > promis
 > async await
 > Es6
-    > lat, const
-    > maps,filter
     > classes
     > import export
 > Baisc Jquery
@@ -58,9 +60,9 @@ git push
 
 
 //////
-map
-filter
-Regex
+Clouser
+local/globalscope
+object
 ////
 
 
