@@ -43,3 +43,10 @@ phone.match("^([0-9]{10})$")
 var email = "a@a.com"
 
 "^([a-zA-Z0-9]+)@([a-zA-Z0-9]+)\.([a-z]{2,5})$"
+
+
+/*
+make a pattern for password
+which can accept a-z special charcter and number 
+total length of 8
+*/

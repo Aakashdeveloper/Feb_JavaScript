@@ -16,9 +16,10 @@ Ecma 6
     > maps,filter
 > regex
 > localstorage
+> Clousers
+> Hoisting
 ----------------
 > object 
-> Clousers
 > Prototypes
 > Transpile
 > DoM
@@ -73,3 +74,6 @@ php - xamp
 python/Node
 
 IFFI
+
+var a="abcD34@#"
+a.match("^([a-zA-Z0-9]+[!@#\$%\^&\*]{8})$")
