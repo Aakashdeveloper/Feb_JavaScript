@@ -33,3 +33,42 @@ country['language']="English"
 "English"
 country
 {name: "India", capital: "Delhi", language: "English"}
+
+//Constructor
+var car = new Object()
+var car = new Object()
+undefined
+typeof(car)
+"object"
+car.color="red"
+"red"
+car.brand="BMW"
+"BMW"
+car
+{color: "red", brand: "BMW"}
+
+
+
+var sayhi = {
+    firstname:'John',
+    lastname:'Eva',
+    greet:function(){
+        return "Hi Welcome to Objects"
+    }
+}
+
+sayhi.greet()
+"Hi Welcome to Objects"
+
+var calc={
+    sum:function(a,b){
+        return a+b
+    },
+    sub: function(a,b){
+        return a-b
+    }
+}
+
+var total = calc.sum(111,222)
+
+///////////
