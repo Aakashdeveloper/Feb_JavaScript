@@ -1,9 +1,8 @@
 ////Call Apply///
 
 var person = {
-    fullName: function(){
-
-        return this.firstname+"_"+this.lastname
+    fullName: function(city,country){
+        return this.firstname+"_"+this.lastname+"_"+city+"_"+country
     }
 }
 
@@ -12,11 +11,12 @@ var john ={
     lastname:'eva'
 }
 
-person.fullName.call(john)
+person.fullName.call(john,'london','England')
+"John_eva"
+person.fullName.apply(john,['london','England'])
+"John_eva"
 
 
-function add(a,b){
-    return a+b
-}
 
-add(1,2)
+if we have to pass object and string use "Call"
+if we have to pass object and array use "Apply"

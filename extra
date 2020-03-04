@@ -14,14 +14,16 @@ Ecma 6
 > Es6
     > lat, const
     > maps,filter
+    > classes
+    > import export
 > regex
 > localstorage
 > Clousers
 > Hoisting
-----------------
 > object 
 > Prototypes
 > Transpile
+----------------
 > DoM
 > Calc
 > Form validation
@@ -29,9 +31,6 @@ Ecma 6
 > Proogress bar
 > promis
 > async await
-> Es6
-    > classes
-    > import export
 > Baisc Jquery
 > Weather application
 > ajax
@@ -77,3 +76,9 @@ IFFI
 
 var a="abcD34@#"
 a.match("^([a-zA-Z0-9]+[!@#\$%\^&\*]{8})$")
+
+babel
+
+/*
+npm init -y
+npm install @babel/core @babel/preset-env @babel/register
