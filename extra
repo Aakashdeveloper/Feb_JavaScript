@@ -23,12 +23,13 @@ Ecma 6
 > object 
 > Prototypes
 > Transpile
-----------------
 > DoM
+> Geolocation
+----------------
+> Events
 > Calc
 > Form validation
-> Geolocation
-> Proogress bar
+> Progress bar
 > promis
 > async await
 > Baisc Jquery
@@ -82,3 +83,7 @@ babel
 /*
 npm init -y
 npm install @babel/core @babel/preset-env @babel/register
+
+class
+id
+tag
