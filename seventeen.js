@@ -44,6 +44,7 @@ var email = "a@a.com"
 
 "^([a-zA-Z0-9]+)@([a-zA-Z0-9]+)\.([a-z]{2,5})$"
 
+"^([a-zA-Z0-9]{8})$"
 
 /*
 make a pattern for password
